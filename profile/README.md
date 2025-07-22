@@ -4,6 +4,8 @@
 Hey! Are you looking to **calculate your tax reimbursement** quick 'n simple? You’re in the right place. This free **Tax Reimbursement Calculator** helps you **figure out how much money you might get back** from your taxes in 2025. No complex forms. No headaches.
 
 ---
+![us tax](https://github.com/user-attachments/assets/3b5e6b63-5d2a-4ab9-86cb-f11eb67763be)
+
 
 ## 🧾 What Is a Tax Reimbursement?
 
